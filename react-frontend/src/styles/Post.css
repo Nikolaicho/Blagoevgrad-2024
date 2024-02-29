@@ -1,0 +1,19 @@
+.post-container{
+    display: flex;
+    flex-direction: row;
+    color:white
+}
+.content-container{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0%);
+    padding: 50px;
+    overflow: hidden;
+}
+.title{
+    font-size: 35px;
+    text-align: center;
+}
+.content-container{
+    width:50%;
+} 

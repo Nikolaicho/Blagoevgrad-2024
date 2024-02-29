@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75533ef3.css",
+    "main.js": "/static/js/main.7123fee5.js",
+    "static/media/welcome-picture.png": "/static/media/welcome-picture.ddb92c9a7ab8589e299d.png",
+    "static/media/logo.png": "/static/media/logo.b7edd18534a102ea1432.png",
+    "static/media/chess.png": "/static/media/chess.fe1da27ce0f5d19de83f.png",
+    "index.html": "/index.html",
+    "main.75533ef3.css.map": "/static/css/main.75533ef3.css.map",
+    "main.7123fee5.js.map": "/static/js/main.7123fee5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75533ef3.css",
+    "static/js/main.7123fee5.js"
+  ]
+}
